@@ -1,7 +1,7 @@
 Hướng dẫn cài đặt và khởi chạy
 1. Tải mã nguồn
 
-git clone https://github.com/username/cinemagic.git
+git clone 
 cd cinemagic
 2. Cài đặt Backend
 Mở terminal tại thư mục gốc của dự án:
