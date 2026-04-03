@@ -20,7 +20,7 @@ npm start
 
 # Server sẽ chạy tại http://localhost:5000
 
-3. Cài đặt Frontend
+. Cài đặt Frontend
 Mở một terminal mới:
 
 cd frontend
